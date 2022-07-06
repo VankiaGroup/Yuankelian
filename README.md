@@ -1,3 +1,4 @@
+English | [简体中文](./README-CN.md)
 ## What is Yuankelian
 
 Yuankelian is a fast and scalable blockchain kernel for enterprises. Yuankelian supports both native contract and EVM contract, by which enterprise users can build their own blockchain applications. Yuankelian has a unique architecture which enables enterprise users to release all their computing resources.
